@@ -1,0 +1,15 @@
+🚀 Employee Attrition Analysis 📊
+
+As an HR Data Analyst, I played a crucial role in helping XYZ Company understand and tackle their high attrition rate, which had been affecting the organization for several years.
+
+In this project, I utilized a comprehensive employee dataset that included attributes such as age, department, job role, salary, job satisfaction, and years with the current manager. My analysis focused on uncovering key factors contributing to employee turnover and providing actionable insights to help reduce the attrition rate.
+
+🌟 Key Contributions:
+
+Built an interactive dashboard to visualize employee attrition trends, allowing the HR team to make data-driven decisions.
+Performed in-depth data analysis using statistical methods to identify the key drivers of attrition.
+Developed KPIs to track factors like employee satisfaction, years at the company, and job involvement.
+Delivered a detailed report summarizing findings and recommendations for improving employee retention.
+This project helped the company implement strategies to lower their attrition rate, improve employee satisfaction, and boost overall productivity.
+
+🔧 Tools & Technologies Used: Power BI, SQL, Excel, Python (Pandas, Matplotlib, Seaborn)
